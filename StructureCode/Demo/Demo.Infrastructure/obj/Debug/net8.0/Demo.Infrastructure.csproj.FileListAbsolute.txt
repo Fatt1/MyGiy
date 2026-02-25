@@ -1,0 +1,17 @@
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\bin\Debug\net8.0\Demo.Infrastructure.deps.json
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\bin\Debug\net8.0\Demo.Infrastructure.dll
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\bin\Debug\net8.0\Demo.Infrastructure.pdb
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.AssemblyInfoInputs.cache
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.AssemblyInfo.cs
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.dll
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\refint\Demo.Infrastructure.dll
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.pdb
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\ref\Demo.Infrastructure.dll
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\bin\Debug\net8.0\Demo.Application.dll
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\bin\Debug\net8.0\Demo.Contract.dll
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\bin\Debug\net8.0\Demo.Application.pdb
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\bin\Debug\net8.0\Demo.Contract.pdb
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Infrastructure.csproj.AssemblyReference.cache
+E:\Microservice\StructureCode\Demo\Demo.Infrastructure\obj\Debug\net8.0\Demo.Inf.DA525600.Up2Date

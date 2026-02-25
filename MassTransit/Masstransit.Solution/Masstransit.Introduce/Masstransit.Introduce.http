@@ -1,0 +1,6 @@
+@Masstransit.Introduce_HostAddress = http://localhost:5149
+
+GET {{Masstransit.Introduce_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

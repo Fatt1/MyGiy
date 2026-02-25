@@ -1,0 +1,34 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Masstransit.Introduce",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Producer/publish-sms-notifaction": {
+      "post": {
+        "tags": [
+          "Producer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/Producer/send-email": {
+      "post": {
+        "tags": [
+          "Producer"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

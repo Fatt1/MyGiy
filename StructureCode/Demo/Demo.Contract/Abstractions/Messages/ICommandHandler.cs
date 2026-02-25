@@ -1,0 +1,15 @@
+﻿using Demo.Contract.Abstractions.Shared;
+using MediatR;
+
+namespace Demo.Contract.Abstractions.Messages
+{
+    public interface ICommandHandler<TCommand> : IRequestHandler<TCommand, Result> where TCommand : ICommand
+    {
+    }
+
+    public interface ICommandHandler<TCommand, TResponse> : IRequestHandler<TCommand, Result<TResponse>>
+        where TCommand : ICommand<TResponse>
+    {
+
+    }
+}

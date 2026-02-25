@@ -1,0 +1,12 @@
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\bin\Debug\net8.0\Masstransit.Contract.deps.json
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\bin\Debug\net8.0\Masstransit.Contract.dll
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\bin\Debug\net8.0\Masstransit.Contract.pdb
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\Masstransit.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\Masstransit.Contract.AssemblyInfoInputs.cache
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\Masstransit.Contract.AssemblyInfo.cs
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\Masstransit.Contract.csproj.CoreCompileInputs.cache
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\Masstransit.Contract.dll
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\refint\Masstransit.Contract.dll
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\Masstransit.Contract.pdb
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\ref\Masstransit.Contract.dll
+E:\Microservice\MassTransit\Masstransit.Solution\Masstransit.Contract\obj\Debug\net8.0\Masstransit.Contract.csproj.AssemblyReference.cache

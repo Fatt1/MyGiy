@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "Masstransit.Introduce.Controllers.ProducerController",
+    "Method": "PublishSmsNotifactionEvent",
+    "RelativePath": "Producer/publish-sms-notifaction",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Masstransit.Introduce.Controllers.ProducerController",
+    "Method": "SendEmailEvent",
+    "RelativePath": "Producer/send-email",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\grpcserver\\interceptors\\loggininterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\interceptors\\loggininterceptor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB0EF0-F7E1-489C-98D7-32146D4FBE61}|OrderService\\OrderService.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DCB0EF0-F7E1-489C-98D7-32146D4FBE61}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\grpcserver\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DCB0EF0-F7E1-489C-98D7-32146D4FBE61}|OrderService\\OrderService.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\orderservice\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9DCB0EF0-F7E1-489C-98D7-32146D4FBE61}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\grpcserver\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\protos\\product.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\grpcserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|e:\\microservice\\grpc\\grpc_beginner\\grpcsimple\\grpcserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AB2EB565-10B6-4D55-A6F6-7F116A7FB010}|GrpcServer\\GrpcServer.csproj|solutionrelative:grpcserver\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LogginInterceptor.cs",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Interceptors\\LogginInterceptor.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Interceptors\\LogginInterceptor.cs",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Interceptors\\LogginInterceptor.cs",
+              "RelativeToolTip": "GrpcServer\\Interceptors\\LogginInterceptor.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:13:17.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Program.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Program.cs",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Program.cs",
+              "RelativeToolTip": "GrpcServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T08:11:37.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GrpcServer\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GrpcServer\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-23T06:58:14.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "product.proto",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\OrderService\\Protos\\product.proto",
+              "RelativeDocumentMoniker": "OrderService\\Protos\\product.proto",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\OrderService\\Protos\\product.proto",
+              "RelativeToolTip": "OrderService\\Protos\\product.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "cb4a8fc6-efe7-424a-b611-23adf22b568e.000046|",
+              "WhenOpened": "2025-12-23T06:56:16.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:45:52.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "GrpcServer\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Services\\ProductService.cs",
+              "RelativeToolTip": "GrpcServer\\Services\\ProductService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAhwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T06:34:37.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "product.proto",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Protos\\product.proto",
+              "RelativeDocumentMoniker": "GrpcServer\\Protos\\product.proto",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Protos\\product.proto",
+              "RelativeToolTip": "GrpcServer\\Protos\\product.proto",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwCYAAAABAAAAAAAAAA==",
+              "Icon": "cb4a8fc6-efe7-424a-b611-23adf22b568e.000046|",
+              "WhenOpened": "2025-12-23T06:34:06.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "greet.proto",
+              "DocumentMoniker": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "GrpcServer\\Protos\\greet.proto",
+              "ToolTip": "E:\\Microservice\\GRPC\\GRPC_Beginner\\GRPCSimple\\GrpcServer\\Protos\\greet.proto",
+              "RelativeToolTip": "GrpcServer\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "cb4a8fc6-efe7-424a-b611-23adf22b568e.000046|",
+              "WhenOpened": "2025-12-23T06:33:37.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

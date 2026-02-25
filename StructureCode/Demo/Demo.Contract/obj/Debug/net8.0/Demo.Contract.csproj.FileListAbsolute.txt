@@ -1,0 +1,12 @@
+E:\Microservice\StructureCode\Demo\Demo.Contract\bin\Debug\net8.0\Demo.Contract.deps.json
+E:\Microservice\StructureCode\Demo\Demo.Contract\bin\Debug\net8.0\Demo.Contract.dll
+E:\Microservice\StructureCode\Demo\Demo.Contract\bin\Debug\net8.0\Demo.Contract.pdb
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\Demo.Contract.csproj.AssemblyReference.cache
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\Demo.Contract.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\Demo.Contract.AssemblyInfoInputs.cache
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\Demo.Contract.AssemblyInfo.cs
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\Demo.Contract.csproj.CoreCompileInputs.cache
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\Demo.Contract.dll
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\refint\Demo.Contract.dll
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\Demo.Contract.pdb
+E:\Microservice\StructureCode\Demo\Demo.Contract\obj\Debug\net8.0\ref\Demo.Contract.dll

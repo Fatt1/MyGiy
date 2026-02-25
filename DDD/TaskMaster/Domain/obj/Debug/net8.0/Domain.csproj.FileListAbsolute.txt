@@ -1,0 +1,12 @@
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\Microservice\DDD\TaskMaster\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\Microservice\DDD\TaskMaster\Domain\bin\Debug\net8.0\Domain.dll
+E:\Microservice\DDD\TaskMaster\Domain\bin\Debug\net8.0\Domain.pdb
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\Domain.dll
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\Domain.pdb
+E:\Microservice\DDD\TaskMaster\Domain\obj\Debug\net8.0\ref\Domain.dll

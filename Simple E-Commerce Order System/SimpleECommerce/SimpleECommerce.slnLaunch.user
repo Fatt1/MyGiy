@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "SimpleECommerce.Order\\SimpleECommerce.Order.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SimpleECommerce.Inventory\\SimpleECommerce.Inventory.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

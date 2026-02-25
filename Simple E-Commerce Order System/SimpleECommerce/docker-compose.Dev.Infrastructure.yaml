@@ -1,0 +1,55 @@
+version: '3.9'
+
+services:
+ # Sql Server Container
+ sqlserver:
+  image: mcr.microsoft.com/mssql/server:2022-latest
+  container_name: microservce_sql
+  environment:
+   - ACCEPT_EULA=Y
+   - MSSQL_SA_PASSWORD=Phat2005
+   - MSSQL_PID=Express	
+  ports:
+   - "1434:1433"
+  volumes:
+   - mssql_data:/var/opt/mssql # để lưu lại dữ liệu khi container dừng
+  networks:
+   - microservices_net # kết nối mạng nội bộ cho các dịch vụ microservices
+ rabbitmq:
+  container_name: rabbitmq
+  image: heidiks/rabbitmq-delayed-message-exchange:latest
+  ports:
+   - "5672:5672" # cổng giao tiếp chính
+   - "15672:15672" # cổng quản lý web"
+  environment:
+   - RABBITMQ_DEFAULT_USER=guest
+   - RABBITMQ_DEFAULT_PASS=password
+   - RABBITMQ_DEFAULT_VHOST=myvhost
+  networks:
+   - microservices_net
+
+volumes:
+ mssql_data:
+
+networks:
+  microservices_net:
+   driver: bridge
+
+
+
+ # order-service:
+ # 1. LỆNH BUILD
+ #    Thay vì tải một image có sẵn (như sqlserver), dòng này bảo Docker:
+ #    "Hãy vào thư mục ./src/SimpleECommerce.Order, tìm file 'Dockerfile' 
+ #    và build code của tôi thành một image mới."
+ #  build: ./src/SimpleECommerce.Order
+ #  environment: 
+ #    __ thay thế cho dâu (:) trong appsettings.json
+ #   - ConnectionStrings__DefaultConnection=Server=sqlserver;Database=OrderDb;User Id=sa;Password=YourStrong!Passw0rd;TrustServerCertificate=True;
+
+ #  depends_on nói rằng từ từ rồi chạy cái này sau khi sqlserver đã sẵn sàng
+ #  depends_on:
+ #   - sqlserver
+ #  networks:
+ #   - microservices_network
+  

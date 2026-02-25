@@ -1,0 +1,15 @@
+E:\Microservice\StructureCode\Demo\Demo.Presentation\bin\Debug\net8.0\Demo.Presentation.deps.json
+E:\Microservice\StructureCode\Demo\Demo.Presentation\bin\Debug\net8.0\Demo.Presentation.dll
+E:\Microservice\StructureCode\Demo\Demo.Presentation\bin\Debug\net8.0\Demo.Presentation.pdb
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Presentation.csproj.AssemblyReference.cache
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Presentation.AssemblyInfoInputs.cache
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Presentation.AssemblyInfo.cs
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Presentation.csproj.CoreCompileInputs.cache
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Presentation.dll
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\refint\Demo.Presentation.dll
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Presentation.pdb
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\ref\Demo.Presentation.dll
+E:\Microservice\StructureCode\Demo\Demo.Presentation\bin\Debug\net8.0\Demo.Contract.dll
+E:\Microservice\StructureCode\Demo\Demo.Presentation\bin\Debug\net8.0\Demo.Contract.pdb
+E:\Microservice\StructureCode\Demo\Demo.Presentation\obj\Debug\net8.0\Demo.Pre.D1A12A32.Up2Date

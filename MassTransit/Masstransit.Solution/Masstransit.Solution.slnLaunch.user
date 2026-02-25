@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Masstransit.Introduce\\Masstransit.Introduce.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Masstransit.Consumer.API\\Masstransit.Consumer.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

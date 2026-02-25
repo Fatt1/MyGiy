@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "SimpleECommerce.Inventory.Controllers.InventoryController",
+    "Method": "GetAllProducts",
+    "RelativePath": "api/Inventory",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

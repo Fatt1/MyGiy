@@ -1,0 +1,6 @@
+@SimpleECommerce.Inventory_HostAddress = http://localhost:5089
+
+GET {{SimpleECommerce.Inventory_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

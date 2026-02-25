@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microservice\\DDD\\TaskMaster\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4374B962-8F18-40F4-AFF5-8A03A9E82804}|TaskMaster\\TaskMaster.csproj|e:\\microservice\\ddd\\taskmaster\\taskmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4374B962-8F18-40F4-AFF5-8A03A9E82804}|TaskMaster\\TaskMaster.csproj|solutionrelative:taskmaster\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\repository\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\handler\\taskassgnedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\handler\\taskassgnedeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\entities\\events\\taskassignedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\events\\taskassignedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4374B962-8F18-40F4-AFF5-8A03A9E82804}|TaskMaster\\TaskMaster.csproj|e:\\microservice\\ddd\\taskmaster\\taskmaster\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4374B962-8F18-40F4-AFF5-8A03A9E82804}|TaskMaster\\TaskMaster.csproj|solutionrelative:taskmaster\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\entities\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\primitives\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\primitives\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\entities\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\sprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\abstract\\aggreateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\abstract\\aggreateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\abstract\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|e:\\microservice\\ddd\\taskmaster\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C233B9D8-52CA-4D72-8D75-17EDEABA09C5}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sprint.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Sprint.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Sprint.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Sprint.cs",
+              "RelativeToolTip": "Domain\\Entities\\Sprint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:49:40.962Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\TaskMaster\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMaster\\Program.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\TaskMaster\\Program.cs",
+              "RelativeToolTip": "TaskMaster\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:41:37.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Repository\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\Repository\\AppDbContext.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Repository\\AppDbContext.cs",
+              "RelativeToolTip": "Domain\\Repository\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:29:48.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\TaskMaster\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskMaster\\Controllers\\TaskController.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\TaskMaster\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskMaster\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:05:04.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskAssignedEvent.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Events\\TaskAssignedEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Events\\TaskAssignedEvent.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Events\\TaskAssignedEvent.cs",
+              "RelativeToolTip": "Domain\\Entities\\Events\\TaskAssignedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T10:01:16.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskAssgnedEventHandler.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Handler\\TaskAssgnedEventHandler.cs",
+              "RelativeDocumentMoniker": "Domain\\Handler\\TaskAssgnedEventHandler.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Handler\\TaskAssgnedEventHandler.cs",
+              "RelativeToolTip": "Domain\\Handler\\TaskAssgnedEventHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:59:16.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IDomainEvent.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Primitives\\IDomainEvent.cs",
+              "RelativeDocumentMoniker": "Domain\\Primitives\\IDomainEvent.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Primitives\\IDomainEvent.cs",
+              "RelativeToolTip": "Domain\\Primitives\\IDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:36:57.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\SubTask.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\SubTask.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\SubTask.cs",
+              "RelativeToolTip": "Domain\\Entities\\SubTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T09:11:57.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:46:07.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Task.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Task.cs",
+              "RelativeToolTip": "Domain\\Entities\\Task.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:23:06.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Project.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Project.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\Project.cs",
+              "RelativeToolTip": "Domain\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:21:12.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\EntityBase.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Domain\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:20:17.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Abstract\\IEntity.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstract\\IEntity.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Abstract\\IEntity.cs",
+              "RelativeToolTip": "Domain\\Abstract\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:19:52.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AggreateRoot.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Abstract\\AggreateRoot.cs",
+              "RelativeDocumentMoniker": "Domain\\Abstract\\AggreateRoot.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Abstract\\AggreateRoot.cs",
+              "RelativeToolTip": "Domain\\Abstract\\AggreateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:19:18.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "E:\\Microservice\\DDD\\TaskMaster\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T08:18:52.487Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
